@@ -1,0 +1,30 @@
+
+
+Programming language : C & C++
+
+
+variable
+data types
+loops
+functions 
+array
+Structure
+
+
+OOP
+
+
+
+###############################################
+Mridul
+1011010000000
+
+################################################
+
+1. Integer - 4 bit  Done
+2. Float - 4 Bytes Done
+3. Boolean - 2bit Done
+4. String - 
+5. Char - 2 byte
+// 6. Double - 8 byte
+ 
